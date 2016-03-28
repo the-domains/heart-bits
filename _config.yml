@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.1079484
+color:
+  saturation: 0.8727174
+  brandStrength: 0.1302894
+  lightness: 0.2024704
+  rhythmicContrast: 0.9973784
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Heart Bits
